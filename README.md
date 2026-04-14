@@ -83,17 +83,17 @@ Navega a http://localhost:3000
 📁 Estructura del proyecto
 modern-chat-app/
 ├── src/
-│   ├── index.js              # Archivo principal del servidor
+│   ├── index.js              # Main server file
 │   └── utils/
-│       ├── messages.js       # Utilidades de mensajes
-│       └── user.js           # Gestión de usuarios
+│       ├── messages.js       # Message utilities
+│       └── user.js          # User management
 ├── public/
-│   ├── index.html            # Página de acceso
-│   ├── chat.html             # Interfaz de chat
+│   ├── index.html           # Join page
+│   ├── chat.html            # Chat interface
 │   ├── css/
-│   │   └── styles.css        # Estilos modernos
+│   │   └── styles.css       # Modern styling
 │   └── js/
-│       └── chat.js           # Lógica del frontend
+│       └── chat.js          # Frontend logic
 ├── package.json
 └── README.md
 
