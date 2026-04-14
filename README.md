@@ -114,7 +114,7 @@ HOST=0.0.0.0
 
 npm run dev
 
-🤝 Contribuciones
+## 🤝 Contribuciones
 Haz un fork del repositorio
 Crea una rama (git checkout -b feature/AmazingFeature)
 Haz commit de tus cambios (git commit -m 'Añade una nueva funcionalidad')
@@ -122,11 +122,13 @@ Haz push a la rama (git push origin feature/AmazingFeature)
 Abre un Pull Request
 
 
-🙏 Agradecimientos
+## 🙏 Agradecimientos
 Socket.IO por la comunicación en tiempo real
 Express.js por el framework web
 Font Awesome por los iconos
 Inter Font por la tipografía
-📞 Soporte
+## 📞 Soporte
 
 Si tienes preguntas o necesitas ayuda, abre un issue en GitHub.
+
+---
