@@ -80,7 +80,9 @@ Navega a http://localhost:3000
    - Atajos de teclado
    - Auto-scroll a nuevos mensajes
 
-📁 Estructura del proyecto
+## 📁 Project Structure
+
+```
 modern-chat-app/
 ├── src/
 │   ├── index.js              # Main server file
@@ -96,6 +98,7 @@ modern-chat-app/
 │       └── chat.js          # Frontend logic
 ├── package.json
 └── README.md
+```
 
 
 🔧 Configuración
